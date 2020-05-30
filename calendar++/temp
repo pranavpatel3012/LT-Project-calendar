@@ -1,0 +1,29 @@
+cmt -> "cmt" is used to write single line comment.
+
+cmt*
+	-> "cmt*   *cmt" is used to write multi line comment.
+	-> This is a multi line comment.
+*cmt
+
+cmt*
+
+- Below are types of queries you can ask by using given syntax.
+- In queries containing of two dates, please write earlier date first for correct answer.
+
+*cmt
+
+
+What is todays date ?
+What is the date after 564 days ?
+How many days in November ?
+How many days between 1/3/2021 and 1/3/2029 ?							cmt Answer is printed in days only.	
+How many days between today and 1/7/2021 ?
+How many days remaining in the year ?
+How many days,months,years between 1/3/2021 and 1/3/2029 ?				cmt Answer is printed in combination of days,months,years
+How many days,months,years between today and 1/7/2024 ?
+How many days,months remaining in the year ?
+How many months remaining in the year ?
+How many months between today and 1/9/2020 ?							cmt Answer is printed in months only.	
+How many months between 1/3/2021 and 1/3/2028 ?
+How many years between today and 1/7/2024 ?
+How many years between 1/3/2021 and 1/3/2028 ?
