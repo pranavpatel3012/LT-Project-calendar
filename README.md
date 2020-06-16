@@ -1,5 +1,5 @@
 # LT-Project-calendar
-In this project I have created a language 'calendar++' using yacc and flex tools. 'calendar++' is a language just like c,c++. It can be used to perform certain task on calendar.
+In this project I have created a language 'calendar++' using yacc and flex tools. 'calendar++' is a language just like c,c++. It can be used to perform certain task on calendar.Lex and Yacc tools are used for Lexer and Parser phase respectively. The user can get the output by both ways, writing queries in file and then compile it as well as by directly giving query as input in terminal.
 
 
 Language Description
