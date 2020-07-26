@@ -24,11 +24,9 @@ Language Features
 	Single LIne comment  :-  “cmt” is used.
 	Multi Line comment  :-  “cmt* … *cmt” is used.
 	
-Source Code Example
-
-	File  :-  https://github.com/pranavpatel3012/LT-Project-calendar/blob/master/calendar%2B%2B/temp
+Source Code Example :-                                            														     
+	File  :-  https://github.com/pranavpatel3012/LT-Project-calendar/blob/master/calendar%2B%2B/temp                              									
 	Screenshot  :-  https://github.com/pranavpatel3012/LT-Project-calendar/blob/master/calendar%2B%2B/source_code_screenshot.png
 
-Output of above source code
-
-	Screenshot  :-  https://github.com/pranavpatel3012/LT-Project-calendar/blob/master/calendar%2B%2B/output_screenshot.png
+Output of above source code  :-                                                              													    
+	https://github.com/pranavpatel3012/LT-Project-calendar/blob/master/calendar%2B%2B/output_screenshot.png
